@@ -7,7 +7,7 @@
     "build": "vue-cli-service build",
     "start": "json-server --watch db.json --port 3000",
     "postinstall": "npm run json-server-install",
-    "json-server-install": "npm install json-server --save-dev"
+    "json-server-install": "npm install -g json-server"
   },
   "dependencies": {
     "axios": "^1.4.0",

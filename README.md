@@ -1,19 +1,21 @@
-# consultorio
+# Proyecto Consultorio Medico
+## Diplomado USIP - VUE.js
+### Roger Fernando Mencia Rojas
 
-## Project setup
+## Descargar modulos
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Correr JSON-Server primero
+```
+json-server --watch db.json
+```
+### Ejecutar servidor
 ```
 npm run serve
 ```
-
 ### Compiles and minifies for production
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

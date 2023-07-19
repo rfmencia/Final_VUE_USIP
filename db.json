@@ -1,0 +1,158 @@
+{
+  "pacientes": [
+    {
+      "id": 1,
+      "nombre": "Juan Gomez",
+      "edad": 40,
+      "genero": "Masculino",
+      "direccion": "Calle 123, General",
+      "telefono": "732-12345"
+    },
+    {
+      "id": 2,
+      "nombre": "Maria Perez",
+      "edad": 30,
+      "genero": "Femenino",
+      "direccion": "Avenida Principal, Pueblo",
+      "telefono": "715-98765"
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos Lopez",
+      "edad": 25,
+      "genero": "Masculino",
+      "direccion": "Plaza Central, Villa",
+      "telefono": "772-24680"
+    },
+    {
+      "id": 4,
+      "nombre": "Laura Ramirez",
+      "edad": 50,
+      "genero": "Femenino",
+      "direccion": "Avenida del Sol, Ciudad",
+      "telefono": "732-11122"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro Torres",
+      "edad": 22,
+      "genero": "Masculino",
+      "direccion": "Calle 456, Pueblo",
+      "telefono": "706-77788"
+    },
+    {
+      "id": 6,
+      "nombre": "Ana Martinez",
+      "edad": 65,
+      "genero": "Femenino",
+      "direccion": "Calle Principal, Ciudad",
+      "telefono": "732-33344"
+    },
+    {
+      "id": 7,
+      "nombre": "David Sanchez",
+      "edad": 35,
+      "genero": "Masculino",
+      "direccion": "Calle del Mar, Villa",
+      "telefono": "715-55566"
+    },
+    {
+      "nombre": "Roger Mencia Rojas",
+      "edad": 31,
+      "genero": "Masculino",
+      "direccion": "Sucre 1517, Central",
+      "telefono": 73287425,
+      "id": 8
+    }
+  ],
+  "consultas": [
+    {
+      "id": 1,
+      "pacientesId": 1,
+      "fecha": "2023-07-15",
+      "motivo": "Dolor de cabeza",
+      "diagnostico": "Migrana",
+      "tratamiento": "Analgesicos y reposo completo"
+    },
+    {
+      "id": 2,
+      "pacientesId": 3,
+      "fecha": "2023-07-16",
+      "motivo": "Fiebre y tos",
+      "diagnostico": "Infeccion respiratoria",
+      "tratamiento": "Antibioticos y jarabe"
+    },
+    {
+      "id": 3,
+      "pacientesId": 5,
+      "fecha": "2023-07-16",
+      "motivo": "Dolor abdominal",
+      "diagnostico": "Gastritis",
+      "tratamiento": "Antiacidos y dieta"
+    },
+    {
+      "id": 4,
+      "pacientesId": 7,
+      "fecha": "2023-07-17",
+      "motivo": "Control prenatal",
+      "diagnostico": "Embarazo saludable",
+      "tratamiento": "Acido folico y controles regulares"
+    },
+    {
+      "id": 5,
+      "pacientesId": 2,
+      "fecha": "2023-07-17",
+      "motivo": "Dolor en la espalda",
+      "diagnostico": "Lumbalgia",
+      "tratamiento": "Fisioterapia y ejercicios"
+    },
+    {
+      "id": 6,
+      "pacientesId": 4,
+      "fecha": "2023-07-18",
+      "motivo": "Mareos y vertigos",
+      "diagnostico": "Vertigo posicional paroxistico benigno",
+      "tratamiento": "Maniobras de reposicionamiento"
+    },
+    {
+      "id": 7,
+      "pacientesId": 6,
+      "fecha": "2023-07-18",
+      "motivo": "Control de presion arterial",
+      "diagnostico": "Hipertension arterial",
+      "tratamiento": "Antihipertensivos y dieta baja en sal"
+    },
+    {
+      "id": 8,
+      "pacientesId": 1,
+      "fecha": "2023-07-18",
+      "motivo": "Dolor en las articulaciones",
+      "diagnostico": "Artritis",
+      "tratamiento": "Antiinflamatorios y terapia fisica"
+    },
+    {
+      "id": 9,
+      "pacientesId": 3,
+      "fecha": "2023-07-18",
+      "motivo": "Dolor de garganta",
+      "diagnostico": "Faringitis",
+      "tratamiento": "Analgesicos y gargaras con agua tibia"
+    },
+    {
+      "id": 10,
+      "pacientesId": 5,
+      "fecha": "2023-07-18",
+      "motivo": "Control de diabetes",
+      "diagnostico": "Diabetes tipo 2",
+      "tratamiento": "Insulina y dieta balanceada"
+    },
+    {
+      "id": 11,
+      "pacientesId": 2,
+      "fecha": "2023-07-16",
+      "motivo": "Dolor abdominal",
+      "diagnostico": "Indigestion",
+      "tratamiento": "Antiacidos y reposo"
+    }
+  ]
+}
